@@ -4,8 +4,8 @@
 
 <br><br>
 
-**Je construis des outils IA et data qui font gagner du temps.**<br>
-Du document brut à la réponse sourcée, du flux Kafka au tableau de bord.
+**Je transforme des données en outils concrets.**<br>
+Assistants IA, modèles de machine learning, pipelines temps réel et tableaux de bord.
 
 <br>
 
