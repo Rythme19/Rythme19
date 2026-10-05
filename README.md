@@ -4,8 +4,7 @@
 
 <br><br>
 
-**Je transforme des données en outils concrets.**<br>
-Assistants IA, modèles de machine learning, pipelines temps réel et tableaux de bord.
+**IA générative · Machine learning · Data engineering · Automatisation**
 
 <br>
 
