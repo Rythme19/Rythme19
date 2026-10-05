@@ -11,7 +11,6 @@ Du document brut à la réponse sourcée, du flux Kafka au tableau de bord.
 
 <a href="https://www.linkedin.com/in/sami-guerbouj"><img src="https://img.shields.io/badge/LinkedIn-1A5FBF?style=for-the-badge" alt="LinkedIn"></a>
 <img src="https://img.shields.io/badge/Paris-0B1F3A?style=for-the-badge&logo=googlemaps&logoColor=F5C400" alt="Paris">
-<img src="https://img.shields.io/badge/En%20recherche%20d'alternance-F5C400?style=for-the-badge" alt="En recherche d'alternance">
 
 </div>
 
