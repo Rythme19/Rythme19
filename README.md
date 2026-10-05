@@ -127,8 +127,4 @@ Assistants IA, modèles de machine learning, pipelines temps réel et tableaux d
 
 <img src="https://skillicons.dev/icons?i=python,scala,java,js,c,sklearn,tensorflow,fastapi,kafka,docker,terraform,azure,aws,mongodb,mysql,react,nodejs,grafana&perline=9" alt="Python, Scala, Java, JavaScript, C, scikit-learn, TensorFlow, FastAPI, Kafka, Docker, Terraform, Azure, AWS, MongoDB, MySQL, React, Node.js, Grafana">
 
-<br><br>
-
-<sub>En dehors du code : vidéo, photo et karaté.</sub>
-
 </div>
